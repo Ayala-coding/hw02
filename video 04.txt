@@ -1,0 +1,10 @@
+#Updaiting an Existing Project
+renove .git from the client directory
+
+git commit -am "desc of the change" -> ??
+
+git add : adds a file/full directory to be trucked
+
+origin is the name of the remote dithub server and its adress is the last argument
+
+git remote -> the name of the remote server
